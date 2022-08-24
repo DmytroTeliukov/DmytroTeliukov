@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytroTeliukov
-- 👀 I’m interested in java development, web development and android development
-- 🌱 I’m currently learning spring framework
+- 👀 I’m interested in web development and android development
+- 🌱 I’m currently learning computer science
 
 <!---
 DmytroTeliukov/DmytroTeliukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
