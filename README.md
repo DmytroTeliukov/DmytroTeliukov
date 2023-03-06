@@ -1,4 +1,4 @@
-# 🏄‍♂️ Dmytro Teliukov
+# Dmytro Teliukov
 
 **`Student/Back-end developer`**
 
