@@ -5,7 +5,7 @@
 Hi, my name is @DmytroTeliukov! <br>
 I'm an student of KhNURE and back-end developer. My projects are built in order to gain skills with tools and technologies. My goal is solving real-life problems with code. 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
